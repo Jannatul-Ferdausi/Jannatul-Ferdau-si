@@ -1,2 +1,2 @@
-# Jannatul-Ferdau-si
+# Jannatul-Ferdausi
 CSE student exploring cybersecurity, cryptography, and post-quantum cryptography. Documenting my learning, research, and projects.
